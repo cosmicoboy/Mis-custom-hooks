@@ -21,7 +21,7 @@ export const useForms = ( initialState = {} ) => {
 
 
 
-    return  [ values,  handleInputChange, reset]
+    return  [ values, handleInputChange, reset]
 
 
 
